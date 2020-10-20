@@ -1,0 +1,2 @@
+#latihan
+print ("Hello world")
